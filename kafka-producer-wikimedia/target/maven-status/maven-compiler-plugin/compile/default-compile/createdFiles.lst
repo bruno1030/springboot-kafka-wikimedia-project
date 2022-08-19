@@ -1,1 +1,4 @@
+com/bruno/springboot/WikimediaChangesProducer.class
+com/bruno/springboot/WikimediaChangesHandler.class
 com/bruno/springboot/SpringBootProducerApplication.class
+com/bruno/springboot/KafkaTopicConfig.class
